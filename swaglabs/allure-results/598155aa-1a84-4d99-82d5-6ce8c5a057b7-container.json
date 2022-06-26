@@ -1,0 +1,1 @@
+{"uuid":"598155aa-1a84-4d99-82d5-6ce8c5a057b7","name":"Tugas2.swaglabs.WebTestTugasTiga.tearDown","description":"","start":1654074811034,"stop":1654074811631,"children":["1370070b-d877-4deb-a385-41a6295adfd3"],"afters":[{"name":"tearDown","status":"passed","stage":"finished","description":"","start":1654074811034,"stop":1654074811631}]}

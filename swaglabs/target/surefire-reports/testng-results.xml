@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="18841" started-at="2022-06-12T01:37:02Z" finished-at="2022-06-12T01:37:21Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="18841" started-at="2022-06-12T01:37:02Z" finished-at="2022-06-12T01:37:21Z">
+      <class name="Tugas3.swaglabs.APITestPOM">
+        <test-method status="PASS" signature="login()[pri:0, instance:Tugas3.swaglabs.APITestPOM@2d1dee39]" name="login" is-config="true" duration-ms="6042" started-at="2022-06-12T01:37:02Z" finished-at="2022-06-12T01:37:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="configAPI()[pri:0, instance:Tugas3.swaglabs.APITestPOM@2d1dee39]" name="configAPI" duration-ms="2112" started-at="2022-06-12T01:37:08Z" finished-at="2022-06-12T01:37:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAPI -->
+        <test-method status="PASS" signature="login()[pri:0, instance:Tugas3.swaglabs.APITestPOM@2d1dee39]" name="login" is-config="true" duration-ms="2211" started-at="2022-06-12T01:37:10Z" finished-at="2022-06-12T01:37:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="dashboardAPI()[pri:0, instance:Tugas3.swaglabs.APITestPOM@2d1dee39]" name="dashboardAPI" duration-ms="1916" started-at="2022-06-12T01:37:12Z" finished-at="2022-06-12T01:37:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dashboardAPI -->
+        <test-method status="PASS" signature="login()[pri:0, instance:Tugas3.swaglabs.APITestPOM@2d1dee39]" name="login" is-config="true" duration-ms="1995" started-at="2022-06-12T01:37:14Z" finished-at="2022-06-12T01:37:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="fakerTest()[pri:0, instance:Tugas3.swaglabs.APITestPOM@2d1dee39]" name="fakerTest" duration-ms="158" started-at="2022-06-12T01:37:16Z" finished-at="2022-06-12T01:37:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fakerTest -->
+        <test-method status="PASS" signature="login()[pri:0, instance:Tugas3.swaglabs.APITestPOM@2d1dee39]" name="login" is-config="true" duration-ms="2052" started-at="2022-06-12T01:37:16Z" finished-at="2022-06-12T01:37:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="userAPI()[pri:0, instance:Tugas3.swaglabs.APITestPOM@2d1dee39]" name="userAPI" duration-ms="1979" started-at="2022-06-12T01:37:19Z" finished-at="2022-06-12T01:37:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- userAPI -->
+      </class> <!-- Tugas3.swaglabs.APITestPOM -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

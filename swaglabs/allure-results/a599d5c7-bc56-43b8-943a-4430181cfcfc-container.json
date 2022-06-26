@@ -1,0 +1,1 @@
+{"uuid":"a599d5c7-bc56-43b8-943a-4430181cfcfc","name":"Tugas3.swaglabs.BaseWebTest.tearDown","description":"","start":1654151930218,"stop":1654151930835,"children":["bbcfd3a8-6836-4a11-ab61-7c4a7c45cf6a"],"afters":[{"name":"tearDown","status":"passed","stage":"finished","description":"","start":1654151930218,"stop":1654151930835}]}
